@@ -84,6 +84,9 @@ nav .hamburger {
 nav svg {
   font-size: 1.75rem;
 }
+sup{
+  font-size: 15px;
+}
 @media (max-width: 1520px) {
   nav {
     min-width: 100%;

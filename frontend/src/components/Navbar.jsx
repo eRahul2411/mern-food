@@ -7,7 +7,7 @@ const Navbar = () => {
     const [show, setShow]=useState(false);
   return (
     <nav>
-        <div className="logo">RAHUL`S</div>
+        <div className="logo">RAHUL`S&nbsp;<sup>&copy;</sup> </div>
         <div className={show ? "navLinks Showmenu":"navLinks"}>
             <div className="links">
                 {
